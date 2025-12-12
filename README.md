@@ -14,7 +14,7 @@ A simple but powerful workflow engine built with FastAPI that supports nodes, ed
 
 ## Screenshots
 
-### API Documentation
+### API
 ![API Docs](screenshots/api_docs.png)
 
 ### Workflow Execution
