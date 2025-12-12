@@ -12,6 +12,21 @@ A simple but powerful workflow engine built with FastAPI that supports nodes, ed
 - RESTful API for graph management
 - Code review workflow example included
 
+## Screenshots
+
+### API Documentation
+![API Docs](screenshots/api_docs.png)
+
+### Workflow Execution
+![Workflow Run](screenshots/workflow_run.png)
+
+### Terminal Output
+![Terminal](screenshots/terminal_output.png)
+
+### Health Check
+![Health](screenshots/health_check.png)
+
+
 ## Installation
 
 ```bash
